@@ -1,6 +1,6 @@
 
 Controle de Funcionários API
-Esta é uma API REST feita em Python com o framework Flask, projetada para gerenciamento de funcionários.
+Esta é uma API REST feita em Python com o framework Flask, utilizando de integração com banco de dados, projetada para gerenciamento de funcionários.
 
 Instalação
 Clone este repositório em sua máquina local.
