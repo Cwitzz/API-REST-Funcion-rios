@@ -28,7 +28,7 @@ Para utilizar esta API, você pode enviar requisições HTTP para os endpoints l
 
 Aqui está um exemplo de como adicionar um novo funcionário usando o cURL:
 
-css
+CSS
 
 curl --location --request POST 'http://localhost:5000/funcionarios' \
 --header 'Content-Type: application/json' \
