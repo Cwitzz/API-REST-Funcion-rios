@@ -7,7 +7,7 @@ Clone este repositório em sua máquina local.
 Certifique-se de ter o Python 3.11 instalado.
 Instale as dependências do projeto.
 
-ENDPOINTS:
+ENDPOINTS::
 /funcionarios [GET]
 Retorna a lista de todos os funcionários cadastrados.
 
