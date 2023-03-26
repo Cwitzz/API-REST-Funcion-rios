@@ -14,7 +14,7 @@ Retorna a lista de todos os funcionários cadastrados.
 /funcionarios/{id} [GET]
 Retorna os detalhes de um funcionário específico.
 
-/funcionarios [POST]
+/funcionarios [POST] : 
 Adiciona um novo funcionário à lista
 
 /funcionarios/{id} [PUT]
