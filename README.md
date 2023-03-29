@@ -7,7 +7,7 @@ Clone este repositório em sua máquina local.
 Certifique-se de ter o Python 3.11 instalado.
 Instale as dependências do projeto.
 
-ENDPOINTS::
+ENDPOINTS:
 /funcionarios [GET]
 Retorna a lista de todos os funcionários cadastrados.
 
@@ -39,4 +39,4 @@ curl --location --request POST 'http://localhost:5000/funcionarios' \
 }'
 
 CONTRUBUINDO
-Sinta-se à vontade para contribuir para este projeto! Você pode enviar um pull request com suas modificações, ou abrir uma nova issue se encontrar algum problema.
+Sinta-se à vontade para contribuir para este projeto! Você pode enviar um pull request com suas modificações, ou abrir uma nova issue se encontrar algum problema..
